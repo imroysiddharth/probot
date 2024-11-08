@@ -1,2 +1,7 @@
-# probot
-A web-based chatbot application that allows users to communicate with an AI model using natural language. Built with a responsive frontend and integrated with OpenAI's API for intelligent responses, the chatbot provides a user-friendly experience for various interactions, from casual questions to information retrieval.
+# proBot
+
+![UI1](https://github.com/user-attachments/assets/788659f3-2d3a-414e-bd8c-e984587d4c4b)
+
+![UI2](https://github.com/user-attachments/assets/3101da85-c22c-4b1b-b7aa-5c10cb75a411)
+
+![UI3](https://github.com/user-attachments/assets/6e206b54-f674-4e0e-b3c1-42b20caed86f)
